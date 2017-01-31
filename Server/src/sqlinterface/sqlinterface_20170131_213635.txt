@@ -1,0 +1,6 @@
+WARNING - 21:36:35: First conversion pass
+ERROR - 21:36:35: java.net.MalformedURLException: unknown protocol: pathmap
+WARNING - 21:36:40: Convert sqlinterface
+WARNING - 21:36:40: First conversion pass
+ERROR - 21:36:40: java.io.FileNotFoundException: /Client/lib/mina/src/mina-filter-compression/src/main/java/org/apache/mina/filter/compression/CompressionFilter.java (No such file or directory)
+ERROR - 21:36:40: java.io.FileNotFoundException: /Client/lib/mina/src/mina-filter-compression/src/main/java/org/apache/mina/filter/compression/CompressionFilter.java (No such file or directory)
